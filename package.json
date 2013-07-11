@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "dnode": "~1.0.5",
-    "level-userdb": "~0.1.1",
+    "level-userdb": "~0.1.1"
   },
   "devDependencies": {
     "chai": "~1.7.2",
