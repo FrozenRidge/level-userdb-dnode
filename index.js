@@ -22,11 +22,11 @@ module.exports = {
       },
 
       changeEmail: function(email, newEmail, cb) {
-        dbi.checkPassword(email, newEmail, cb)
+        dbi.changeEmail(email, newEmail, cb)
       },
 
       deleteUser: function(email, cb) {
-        dbi.checkPassword(email, cb)
+        dbi.deleteUser(email, cb)
       },
 
       modifyUser: function(email, data, cb) {
