@@ -1,7 +1,7 @@
 level-userdb-dnode
 ==================
 
-[![Build Status](https://travis-ci.org/FrozenRidge/level-userdb-dnode.png)](https://travis-ci.org/FrozenRidge/level-userdb-dnoe)
+[![Build Status](https://travis-ci.org/FrozenRidge/level-userdb-dnode.png)](https://travis-ci.org/FrozenRidge/level-userdb-dnode)
 
 Dnode client and server for [level-userdb](https://github.com/FrozenRidge/level-userdb).
 
