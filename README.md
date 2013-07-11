@@ -12,8 +12,8 @@ Dnode client and server for [level-userdb](https://github.com/FrozenRidge/level-
 ## Quickstart
 
 ```javascript
-var dnodeServer = require('./index').server
-var dnodeClient = require('./index').client
+var dnodeServer = require('level-userdb-dnode').server
+var dnodeClient = require('level-userdb-dnode').client
 
 // Start the server
 var server = dnodeServer('my-database')
