@@ -1,6 +1,6 @@
 {
   "name": "level-userdb-dnode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dnode client & server for level-userdb",
   "main": "index.js",
   "dependencies": {
