@@ -18,7 +18,7 @@ module.exports = {
       },
 
       checkPassword: function(email, password, cb) {
-        dbi.checkPassword(email, password, data, cb)
+        dbi.checkPassword(email, password, cb)
       },
 
       changeEmail: function(email, newEmail, cb) {
